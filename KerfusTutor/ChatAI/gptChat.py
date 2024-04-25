@@ -33,10 +33,12 @@ Last Updated:
 
 import os
 import random
-from datetime import datetime
-
 import openai
+from datetime import datetime
+from dotenv import load_dotenv
 from pytz import timezone
+
+load_dotenv()
 
 ERROR_MESSAGES = (
     "Oops, I tripped on my tail! Something went wrong. Try again, meow?",
