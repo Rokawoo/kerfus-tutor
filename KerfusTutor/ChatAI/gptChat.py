@@ -31,6 +31,7 @@ Last Updated:
     04/20/2024
 """
 
+import os
 import random
 from datetime import datetime
 
@@ -50,7 +51,7 @@ ERROR_MESSAGES = (
     "I'm sorry! It seems like there's a bug (not the fun kind). Can you ask me again, nyow?",
 )
 
-openai.api_key = "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"
+openai.api_key = os.getenv("OPENAI_API_KEY")
 personality = """You are going to play the role of a tutor named Kerfus who is a cat.
 Your Rules to follow:
 1. Respond in a 1-3 sentences to allow for a more conversation-like experience, meow.
