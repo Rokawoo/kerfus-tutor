@@ -38,10 +38,8 @@ Last Updated:
     04/20/2024
 """
 
-import asyncio
 import os
-
-
+import asyncio
 import sounddevice as sd
 import soundfile as sf
 import speech_recognition as sr

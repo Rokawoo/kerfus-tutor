@@ -4,8 +4,8 @@ import time
 from threading import Thread, Event
 from collections import deque
 from GUI import create_gui, random_expression_from_set, async_random_expression_from_set, reset, update_image, IDLE_FUNCS, COMPLETION_FUNCS, KerfusTalkOpen_IMAGE_PATH
-from TTS.audioProcessing import active_listening, convert_audio_to_text, play_and_delete_sound_files, get_audio_duration_soundfile
-from TTS.tiktockTts import tts
+from TTS-STT.audioProcessing import active_listening, convert_audio_to_text, play_and_delete_sound_files, get_audio_duration_soundfile
+from TTS-STT.tiktockTts import tts
 from ChatAI.gptChat import process_message_and_generate_response, get_current_date
 
 IN_PROGRESS = False

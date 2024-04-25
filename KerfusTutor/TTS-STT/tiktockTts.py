@@ -43,8 +43,8 @@ import textwrap
 import soundfile as sf
 from concurrent.futures import ThreadPoolExecutor
 
-import httpx # type: ignore
-import pyttsx4 # type: ignore
+import httpx
+import pyttsx4
 
 VOICES = (
     # DISNEY VOICES

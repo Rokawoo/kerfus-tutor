@@ -1,6 +1,5 @@
 import asyncio
 import os
-import time
 import tkinter as tk
 import random
 from PIL import Image, ImageTk
