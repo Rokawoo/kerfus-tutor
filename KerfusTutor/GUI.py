@@ -6,7 +6,7 @@ import random
 from PIL import Image, ImageTk
 
 
-BASE_PATH = os.path.join('.', 'codefest-2024', 'KerfusTutor-api')
+BASE_PATH = os.path.join('.', 'codefest-2024', 'KerfusTutor', 'KerfusImg')
 
 TTS_FILE_PATH = os.path.join(os.getcwd(), "output0.mp3")
 
