@@ -1,4 +1,4 @@
-<img src="https://github.com/Rokawoo/kerfus-tutor/blob/main/KerfusTutor/KerfusImg/KerfusFilled.png" alt="Kerfus" align="center" style="margin-top: -50px"/>
+<img src="https://github.com/Rokawoo/kerfus-tutor/blob/main/KerfusTutor/KerfusImg/KerfusFilled.png" alt="Kerfus" align="center"/>
 <div align="center">
   <h1>Kerfus Tutor</h1>
   <p>Augustus Sroka</p>
