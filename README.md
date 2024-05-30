@@ -13,6 +13,10 @@ Kerfus Tutor: Your Friendly Accessible Study Companion Introducing an interactiv
 
 The name comes from the Polish robot.
 
+**Demo**
+
+[Demo](https://github.com/Rokawoo/kerfus-tutor/assets/129356996/51b1c436-da60-49ad-b1c0-3203927019f2)
+
 **How to Use the Tutor**
 
 1. Talk to it.
